@@ -17,7 +17,6 @@ listString = ["fine", "fineman", "fish"];
 listString.InsertAt(1, "her");
 listString.RemoveAt(2);
 
-listString[2] = "Huy?";
 
 foreach (var item in listString)
 {
